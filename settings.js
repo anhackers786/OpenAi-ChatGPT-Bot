@@ -6,10 +6,10 @@ const chalk = require('chalk')
 🤖 𝗕𝗢𝗧 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦
 */
 global.OFFLINE = false // if you want put bot offline put true
-global.BOT_PRIVATE = false // if you want use bot privet 
+global.BOT_PRIVATE = true // if you want use bot privet 
 global.AUTO_CHATGPT = false // if you want auto ai bot mod
 global.READ_MESSAGE = false // if you want read message from bot
-global.ONLY_INBOX = true // Only inbox mod ( only pm ) use
+global.ONLY_INBOX = false // Only inbox mod ( only pm ) use
 global.ONLY_GROUPS = false // Only Groups Use
 
 
